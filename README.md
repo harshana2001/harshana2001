@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @harshana2001
-- 👀 I’m interested in game developing and machine learning
-- 🌱 I’m currently learning c,c++,python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋, I'm Harshana!
 
-<!---
-harshana2001/harshana2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile. Here you'll find a collection of my projects, contributions, and collaborations.
+
+- 🔭 I’m currently working on a Adult Content Detection Model
+- 🌱 I’m currently learning Machine Learning
+- 📫 How to reach me: rathnay-ec20076@stu.kln.ac.lk
+- 😄 Pronouns: He/Him
+
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/harshanarathnayaka/)/)
